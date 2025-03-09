@@ -9,6 +9,7 @@
     * [POWERGAMING](regras/regras-gerais/powergaming.md)
     * [ABUSO DE MECÂNICAS E BUGS](regras/regras-gerais/abuso-de-mecanicas-e-bugs.md)
     * [COMBAT LOGGING](regras/regras-gerais/combat-logging.md)
+    * [FLAMING](regras/regras-gerais/flaming.md)
   * [⚫ Regras Roleplay](regras/regras-roleplay/README.md)
     * [PERSONAGEM](regras/regras-roleplay/personagem.md)
     * [EXAME CHUNIN E JOUNIN](regras/regras-roleplay/exame-chunin-e-jounin.md)
