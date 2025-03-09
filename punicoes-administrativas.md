@@ -24,6 +24,6 @@
 
 ***
 
-**02.** As punições administrativas são compartilhadas entre os personagens.
+* **02.** As punições administrativas são compartilhadas entre os personagens.
 
 ***
