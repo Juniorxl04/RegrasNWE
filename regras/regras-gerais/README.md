@@ -29,3 +29,7 @@ description: >-
 {% content-ref url="combat-logging.md" %}
 [combat-logging.md](combat-logging.md)
 {% endcontent-ref %}
+
+{% content-ref url="flaming.md" %}
+[flaming.md](flaming.md)
+{% endcontent-ref %}
