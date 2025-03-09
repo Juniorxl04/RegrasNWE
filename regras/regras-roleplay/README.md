@@ -29,3 +29,7 @@ description: >-
 {% content-ref url="bingo-book.md" %}
 [bingo-book.md](bingo-book.md)
 {% endcontent-ref %}
+
+{% content-ref url="dark-rp.md" %}
+[dark-rp.md](dark-rp.md)
+{% endcontent-ref %}
