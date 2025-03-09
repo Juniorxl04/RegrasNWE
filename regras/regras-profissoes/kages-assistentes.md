@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 🫅 Kages/Assistentes
+# Kages/Assistentes
 
 > Atenção para os Kages, na página inicial de "REGRAS PROFISSÕES" há uma regra que diz sobre saída do cargo antes do previsto.
 

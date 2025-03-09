@@ -1,4 +1,4 @@
-# 🥷 ANBUs
+# ANBUs
 
 * **01.** ANBUs com ponto batido não devem treinar com outros ninjas, além dos de sua profissão.
 

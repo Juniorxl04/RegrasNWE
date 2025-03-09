@@ -1,4 +1,4 @@
-# 👮‍♂️ Delegacia
+# Delegacia
 
 * **01.** É obrigatório que o líder da profissão cumpra uma carga horária de no mínimo de 05 (cinco) horas semanais.
 
@@ -40,7 +40,7 @@ Deverá ser postado um anúncio no Discord oficial sempre que houver recrutament
 
 * **05.** Os líderes de profissão estão autorizados a reintegrar membros antigos nas profissões sem precisar passar por um recrutamento, porém deverá seguir algumas regras que estão destacadas abaixo:
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><p></p><p>Ter passado pelo menos 2 semanas fora da profissão.</p></td></tr><tr><td><p></p><p>Ter chegado a no mínimo a patente de Cabo.</p></td></tr><tr><td>O membro que for reintegrado deverá retornar um cargo anterior pelo qual foi desligado.</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>Ter passado pelo menos 2 semanas fora da profissão.</td></tr><tr><td>Ter chegado a no mínimo a patente de Cabo.</td></tr><tr><td>O membro que for reintegrado deverá retornar um cargo anterior pelo qual foi desligado.</td></tr></tbody></table>
 
 {% hint style="warning" %}
 Essa regra não deve levar em conta o cargo de General.
