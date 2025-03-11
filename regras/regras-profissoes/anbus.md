@@ -63,3 +63,7 @@ Kirigakure é exceção, podendo ser colocado a qualquer momento.
 {% endhint %}
 
 ***
+
+* **08.** Ninjas da ANBU, enquanto estiverem fardados, devem se relacionar com os demais ninjas de maneira formal.
+
+***
