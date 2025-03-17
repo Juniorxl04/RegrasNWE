@@ -135,3 +135,21 @@ Exemplo: O jogador Zora foi removido da ANBU, entrando o jogador Kiyomaru em seu
 {% endhint %}
 
 ***
+
+* **12.** É obrigatório que Kages punam os ninjas em que tiveram envolvimento com Kirigakure, caso o Kage não possua nenhum tratado com Kirigakure.
+
+{% hint style="info" %}
+Os ninjas que o viram/capturaram, devem informar ao Kage sobre o ocorrido, caso os mesmos possuam alguma prova, o Kage é **obrigado** a renegar todos os ninjas em que tiveram envolvimentos.
+
+OBS.: Caso os ninjas não possuam nenhuma prova, o Kage não é obrigado a renegá-los, podendo ainda sim acreditar na palavra do seu ninja.
+{% endhint %}
+
+{% hint style="success" %}
+Esta regra é válida apenas para Konohagakure e Kumogakure.
+{% endhint %}
+
+{% hint style="danger" %}
+É passível de punição administrativa.
+{% endhint %}
+
+***
