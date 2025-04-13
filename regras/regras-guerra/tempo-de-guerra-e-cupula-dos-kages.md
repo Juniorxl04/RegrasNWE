@@ -20,4 +20,4 @@
 
 ***
 
-* **05.** Após a decisão e encerramento da guerra, será instaurada uma paz obrigatória de 45 dias.
+* **05.** Após a decisão e encerramento da guerra, será instaurada uma paz obrigatória de 20 dias.
