@@ -14,7 +14,7 @@ layout:
 
 # EXAME CHUNIN E JOUNIN
 
-* **01.** É **proibido** qualquer tipo de conflito/entrega de pacote e/ou roubo de caixa **02 (duas) horas** antes e **30(trinta) minutos** após a finalização do Exame Chunin/Jounin.&#x20;
+* **01.** É **proibido** qualquer tipo de conflito/entrega de pacote e/ou roubo de caixa **02 (duas) horas** antes e **30(trinta) minutos** após a finalização do Exame Chunin/Jounin.
 
 ***
 
@@ -36,7 +36,7 @@ Servindo para o Exame Jounnin também.
 
 ***
 
-* &#x20;**04.** É proibido Chunin's ou Jounin's ficarem dentro da floresta durante o Exame Chunin.
+* **04.** É proibido Chunin's ou Jounin's ficarem dentro da floresta durante o Exame Chunin.
 
 {% hint style="success" %}
 Só será permitido ficar fora da floresta ou dentro da torre da terceira fase, caso seja um aplicador.
@@ -49,6 +49,14 @@ Só será permitido ficar fora da floresta ou dentro da torre da terceira fase, 
 ***
 
 * **06.** O exame chunin só deve ser marcado seguindo um roleplay entre os Kages e também devem ser comunicados à ‘'Equipe STAFF NWE'’.
+
+***
+
+* **07.** É proibido realizar qualquer tipo de exame, seja Jounin ou Chunin, utilizando a conta de outra pessoa.
+
+{% hint style="danger" %}
+Ambos os jogadores sofrerão punições administrativas.
+{% endhint %}
 
 ***
 
