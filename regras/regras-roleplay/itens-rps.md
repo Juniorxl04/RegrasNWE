@@ -16,7 +16,7 @@ layout:
 
 > É de conhecimento de todos ou da grande maioria que existem itens rp's dentro do servidor que podem sim ser **roubados** por qualquer pessoa que tiver oportunidade e também podem ser **perdidos** após o **CK (Character Kill).** Entretanto, existem **regras** de uso para tais itens.
 
-<table><thead><tr><th width="199">Quantidade</th><th>Nome</th><th>Roubável</th></tr></thead><tbody><tr><td>1</td><td>Espada Kubikiribōchō</td><td>Sim</td></tr><tr><td>1</td><td>Chapéu de Hokage</td><td>Sim</td></tr><tr><td>1</td><td>Chapéu de Raikage</td><td>Sim</td></tr><tr><td>1</td><td>Chapéu de Mizukage</td><td>Sim</td></tr><tr><td>1</td><td>Gunbai</td><td>Não</td></tr></tbody></table>
+<table><thead><tr><th width="199">Quantidade</th><th>Nome</th><th>Roubável</th></tr></thead><tbody><tr><td>1</td><td>Espada Kubikiribōchō</td><td>Sim</td></tr><tr><td>1</td><td>Chapéu de Hokage</td><td>Sim</td></tr><tr><td>1</td><td>Chapéu de Raikage</td><td>Sim</td></tr><tr><td>1</td><td>Chapéu de Mizukage</td><td>Sim</td></tr><tr><td>1</td><td>Gunbai</td><td>Não</td></tr><tr><td>2</td><td>Pássaro do Sasuke (Invocação aérea)</td><td>Sim</td></tr><tr><td>1</td><td>Pássaro do Deidara (Invocação aérea)</td><td>Sim</td></tr></tbody></table>
 
 * **01.** **Itens Equipados:** Todo item RP **equipável** (Ex: Espada/Chapéu) deve estar sempre **exposto** com **tamanho padrão**, ou seja, deve sempre **andar** com ela **visível** em seu personagem, seja nas costas, braço, perna ou cabeça.
 
@@ -42,21 +42,15 @@ Exemplo: Quatro ninjas ficam alternando diariamente quem fica com a posse de um 
 {% endhint %}
 
 {% hint style="info" %}
-**Todos os repasses deverão conter um MOTIVO COERENTE!**&#x20;
-
-
+**Todos os repasses deverão conter um MOTIVO COERENTE!**
 
 Salvo em casos específicos, sendo eles:
-
-
 
 * Repassar o Chapéu de Kage ao novo Kage
 * Negociação para devolução do chapéu a outra vila.
 * Roubo do Item RP.
 * Morte do personagem.
 * Ausência do player / Análise da Staff.
-
-
 
 Caso não ocorra nenhuma dessas situações, o indivíduo que atualmente portar o item deve se manter com o mesmo e quando for negociar o item, é obrigatório que abra um **TICKET-RP** antecipadamente.
 {% endhint %}
