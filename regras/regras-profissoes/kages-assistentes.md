@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# Kages/Assistentes
+# KAGES/ASSISTENTES
 
 > Atenção para os Kages, na página inicial de "REGRAS PROFISSÕES" há uma regra que diz sobre saída do cargo antes do previsto.
 
@@ -58,10 +58,18 @@ A punição será de 1 (um) mês de blacklist de todas as profissões + blacklis
 
 ***
 
-* **03.** Será obrigatório que o Kage puna qualquer membro de sua vila que tenha causado problemas para a vila oposta, durante o tempo de paz obrigatória entre as nações.
+* **03.** Será obrigatório que o Kage puna qualquer membro de sua vila que invada a vila oposta com a **bandana exposta**, sem autorização prévia do Kage.
+
+{% hint style="warning" %}
+Exceto durante o período de guerra.
+{% endhint %}
+
+{% hint style="warning" %}
+Em caso de captura de um ninja mascarado, este deve arcar com as consequências na vila que atacou, podendo ser preso na delegacia. Caso os ninjas da vila atacada desejem guiar o ninja até sua vila de origem, isso é permitido, porém, a punição não será obrigatória, considerando que ele estava mascarado. Ainda assim, o ninja pode ser punido em sua vila, caso as autoridades locais assim decidam.
+{% endhint %}
 
 {% hint style="info" %}
-Exemplo: Um ninja mascarado invade a vila oposta para roubar o caixa, porém, acaba sendo capturado e guiado até sua vila de origem para que o mesmo seja julgado por seus crimes, obrigatoriamente o Kage terá que puni-lo, seja com multa, prisão, exílio ou pena de morte.
+Caso o jogador possua autorização prévia do Kage para realizar um ataque a outra vila enquanto estiver com a bandana exposta, O Kage deverá apresentar um motivo plausível para essa liberação, além da comprovação em um ticket junto à Gerência para que a STAFF possa realizar a análise, será necessário prints ou gravações do roleplay realizado.
 {% endhint %}
 
 {% hint style="danger" %}

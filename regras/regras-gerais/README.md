@@ -37,3 +37,11 @@ description: >-
 {% content-ref url="compartilhamento-de-conta.md" %}
 [compartilhamento-de-conta.md](compartilhamento-de-conta.md)
 {% endcontent-ref %}
+
+{% content-ref url="macros-cheating.md" %}
+[macros-cheating.md](macros-cheating.md)
+{% endcontent-ref %}
+
+{% content-ref url="regras-de-ouro.md" %}
+[regras-de-ouro.md](regras-de-ouro.md)
+{% endcontent-ref %}

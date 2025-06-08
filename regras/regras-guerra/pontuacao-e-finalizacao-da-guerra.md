@@ -1,4 +1,4 @@
-# Pontuação e Finalização da Guerra
+# PONTUAÇÃO E FINALIZAÇÃO DA GUERRA
 
 ## A guerra será encerrada por derrota total de uma vila caso um dos seguintes objetivos seja alcançados:
 
@@ -15,5 +15,4 @@
 
 ## **Pontos Importantes:**
 
-* Qualquer ataque sem motivos ou sem embasamento durante o período de paz resultará em punições administrativas imediatas.
 * Caso haja a possibilidade de uma batalha final, os Senhores Feudais e os Kages decidirão como ela será realizada e quais serão as condições para a vitória.

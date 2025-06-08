@@ -1,4 +1,4 @@
-# Regras Combate
+# REGRAS COMBATE
 
 * **01.** É obrigatório que o Kage puna ninjas que ajudarem sem permissão outra vila.
 
@@ -62,16 +62,16 @@ Está proibido teleportar inimigos para locais onde o único método de saída �
 **Exemplo:** Atacar imediatamente sem dar tempo de reação, após um jogador ter sido reposicionado ou retirado de um interior bugado no mapa.
 {% endhint %}
 
-{% hint style="danger" %}
-É passível de punição por Anti-Fairplay.
-{% endhint %}
-
 {% hint style="warning" %}
 Após um jogador sair de um bug ou um crash, um dos envolvidos deve realizar a contagem para que a ação retorne a ocorrer.
 {% endhint %}
 
 {% hint style="warning" %}
-A contagem deve ser feita de forma separada e não toda a contagem em apenas uma linha.
+A contagem deve ser realizada através do comando "/contagemfp". A não utilização desse comando pode acarretar punições.
+{% endhint %}
+
+{% hint style="danger" %}
+É passível de punição por Anti-Fairplay.
 {% endhint %}
 
 ***

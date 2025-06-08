@@ -1,4 +1,4 @@
-# Regras Bases
+# REGRAS BASES
 
 * **01.** Sequestro e cárcere privado em bases tem duração de **1 (uma) horas**, após esse tempo, é obrigatório liberar a vítima sequestrada, independente de roleplay ou não.
 
@@ -15,5 +15,9 @@
 {% hint style="danger" %}
 É passível de punição administrativa.
 {% endhint %}
+
+***
+
+* **03.** **É permitido** que ninjas que estejam com a bolsa de dinheiro do caixa eletrônico entrem em suas bases por meios próprios, sem utilizar selamentos.
 
 ***

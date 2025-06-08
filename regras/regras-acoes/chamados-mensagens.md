@@ -1,6 +1,6 @@
-# Chamados/Mensagens
+# CHAMADOS/MENSAGENS
 
-> ## **Pergaminho de Emergência**
+> ### **Pergaminho de Emergência**
 
 > O pergaminho de emergência deve ser utilizado somente para o intuito de socorro médico (salvo emboscadas), caso contrário, estará sendo passível de punição administrativa.
 
@@ -34,7 +34,7 @@ Ressaltamos que é recomendado que todos priorizem o uso do **pergaminho de emer
 
 ***
 
-> ## **Pombo Correio**
+> ### **Pombo Correio**
 
 {% hint style="info" %}
 O **pombo-correio** pode ser utilizado de diversas maneiras, como por exemplo: Solicitar apoio ou reforços através de cartas pré-escritas com localizações onde você provavelmente entraria em conflito, além de poder usar as cartas para se comunicar com alguém à distância o que abre diversas possibilidades dentro do roleplay.

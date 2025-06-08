@@ -1,4 +1,4 @@
-# Tempo de Guerra e Cúpula dos Kages
+# TEMPO DE GUERRA E CÚPULA DOS KAGES
 
 * **01.** A guerra tem duração de 20 dias, com 1 semana de conflito antes do seu início oficial.
 
@@ -8,7 +8,7 @@
 
 ***
 
-* **03.** Durante o dia da cúpula, nenhum conflito ou provocação poderá ocorrer entre as vilas.
+* **03.** Durante o dia da cúpula, é proibido qualquer tipo de conflito ou provocação entre as vilas, tanto no local da reunião quanto em seus arredores, enquanto a cúpula não for oficialmente encerrada.
 
 {% hint style="danger" %}
 É passível de punição administrativa.
