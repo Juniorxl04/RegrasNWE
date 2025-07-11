@@ -1,22 +1,8 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # ITENS RP’S
 
 > É de conhecimento de todos ou da grande maioria que existem itens rp's dentro do servidor que podem sim ser **roubados** por qualquer pessoa que tiver oportunidade e também podem ser **perdidos** após o **CK (Character Kill).** Entretanto, existem **regras** de uso para tais itens.
 
-<table><thead><tr><th width="199">Quantidade</th><th>Nome</th><th>Roubável</th></tr></thead><tbody><tr><td>1</td><td>Espada Kubikiribōchō</td><td>Sim</td></tr><tr><td>1</td><td>Chapéu de Hokage</td><td>Sim</td></tr><tr><td>1</td><td>Chapéu de Raikage</td><td>Sim</td></tr><tr><td>1</td><td>Chapéu de Mizukage</td><td>Sim</td></tr><tr><td>1</td><td>Gunbai</td><td>Não</td></tr><tr><td>2</td><td>Pássaro do Sasuke (Invocação aérea)</td><td>Sim</td></tr><tr><td>1</td><td>Pássaro do Deidara (Invocação aérea)</td><td>Sim</td></tr></tbody></table>
+<table><thead><tr><th width="199">Quantidade</th><th>Nome</th><th>Roubável</th></tr></thead><tbody><tr><td>1</td><td>Chapéu de Hokage</td><td>Sim</td></tr><tr><td>1</td><td>Chapéu de Raikage</td><td>Sim</td></tr><tr><td>1</td><td>Chapéu de Mizukage</td><td>Sim</td></tr><tr><td>1</td><td>Gunbai</td><td>Sim</td></tr><tr><td>1</td><td>Espada Kubikiribōchō</td><td>Sim</td></tr><tr><td>1</td><td>Samehada</td><td>Sim</td></tr><tr><td>1</td><td>Kurosawa</td><td>Sim</td></tr><tr><td>1</td><td>Kusanagi</td><td>Sim</td></tr><tr><td>2</td><td>Pássaro do Sasuke (Invocação aérea)</td><td>Sim</td></tr><tr><td>1</td><td>Pássaro do Deidara (Invocação aérea)</td><td>Sim</td></tr></tbody></table>
 
 * **01.** **Itens Equipados:** Todo item RP **equipável** (Ex: Espada/Chapéu) deve estar sempre **exposto** com **tamanho padrão**, ou seja, deve sempre **andar** com ela **visível** em seu personagem, seja nas costas, braço, perna ou cabeça.
 
