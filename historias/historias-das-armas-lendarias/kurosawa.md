@@ -14,13 +14,13 @@
 
 &#x20;E lá estava ela, a fiel Kurosawa, dando inicio á diversos conflitos, cortando e dilacerando inimigos em campo, inicialmente, o Iaijutsu fora o primeiro estilo de empunhadura que se adaptou com a Kurosawa, logo após, Mifune a adaptou ao Iaidou, juntamente do seu estilo de Kenjutsu, mas sem sucesso ao tentar infudi-la em chakra, pois como relatava "os cortes, pareciam ter vida própria, como a verdadeira mordida de um lobo do Ártico".
 
-&#x20;Durante o século perdido, a família de Himura, conseguiu inúmeros feitos, ascendendo seu plano até a realeza. Infelizmente esses feitos não eram reconhecidos pelo próprio Gaisen, que "culpava" mérito á Katana, e não de seu portador, afinal, Gaisen era habilidoso, mas a Lâmina prateada entendia "quando e como cortar" mais que a própria arte primitiva do Iaijutsu.
+&#x20;Durante o século perdido, a família de Himura, conseguiu inúmeros feitos, ascendendo seu plano até a realeza. Infelizmente esses feitos não eram reconhecidos pelo próprio Gaisen, que "culpava" mérito a Katana, e não de seu portador, afinal, Gaisen era habilidoso, mas a Lâmina prateada entendia "quando e como cortar" mais que a própria arte primitiva do Iaijutsu.
 
 ***
 
 ## O TESOURO DA FAMÍLIA HIMURA
 
-&#x20;Durante anos, a família de Himura manteve segredo, passando de geração em geração o legado-espólio do antigo mundo, até que se perdeu em fogo quando o império-cidadela de Tenzaku. Com isso, demorou anos e anos até que sua bainha achasse um dono "digno", perambulando de mão-em-mão do que denomina-se "tempos sombrios" da Katana de prata. Passando na mão de assassinos, mercenários, e até ninjas, oque seria o completo oposto que a Katana propunha, mas como sempre, a Lâmina sempre arranjava um meio de "escapar" das mãos de quem fosse impuro de embaiar suas bandagens.
+&#x20;Durante anos, a família de Himura manteve segredo, passando de geração em geração o espólio do antigo mundo, até que se perdeu em fogo quando o império-cidadela de Tenzaku. Com isso, demorou anos e anos até que sua bainha achasse um dono "digno", perambulando de mão em mão do que denomina-se "tempos sombrios" da Katana de prata. Passando na mão de assassinos, mercenários, e até ninjas, oque seria o completo oposto que a Katana propunha, mas como sempre, a Lâmina sempre arranjava um meio de "escapar" das mãos de quem fosse impuro de embaiar suas bandagens.
 
 &#x20;Relatos até supõem que a Katana era designado á linhagem da família Himura, mas nada confirmado, apenas especulado nos becos de vielas que conheciam a Lâmina mas não seu passado.
 

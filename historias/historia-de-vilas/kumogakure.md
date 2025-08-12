@@ -42,7 +42,7 @@ Oque fizera com que Daimyo entrasse em puro extase diante daquilo que construiu.
 
 &#x20;Como o avanço de Kumogakure seria eminente, Shikaku Nara, Líder do clã Nara, optou por planejar como iria contra-atacar a ofensiva do País do Raio, e assim o fez, mobilizando diversos ninjas á volta da floresta com a esperança de emboscar o grupo em maior quantidade.
 
-&#x20;E dito e feito, com a chegada de Kumogakure, houve uma verdadeira matança no território, que por este, pela primeira vez, tornara a o bosque em uma mancha vermelha na história. Oque não contavam, era que Kumogakure detinham o conhecimento tecnológico e artesanal para produzir kunais-papel bombas, uma vez que, postas em guerra, seriam instrumentos proibidos, por conta de sua alta periculosidade, considerada até uma arma "desumana e sem honra" por alguns ninjas.
+&#x20;E dito e feito, com a chegada de Kumogakure, houve uma verdadeira matança no território, que por este, pela primeira vez, tornara a o bosque em uma mancha vermelha na história. Oque não contavam, era que Kumogakure detinham o conhecimento tecnológico e artesanal para produzir kunais e papéis bomba, uma vez que, postas em guerra, seriam instrumentos proibidos, por conta de sua alta periculosidade, considerada até uma arma "desumana e sem honra" por alguns ninjas.
 
 &#x20;E assim foi, um dos domínios mais sangrentos da guerra, protagonizado em grandes perdas, tanto para Kumogakure, com a morte de dezenas de Chinoikes, quanto para Konohagakure, com perdas significativas entre os Akimichis e os Naras. Pouco se sabe sobre a fabricação das "Kunais bombas",algo instável e mortal, oque se tornou algo excasso e teve seu método de fabricação perdido após a era dos estados combatentes.
 

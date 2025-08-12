@@ -6,11 +6,11 @@
 
 &#x20;Porém, como toda grande potência, o império ruiu. Ninguém sabe exatamente como – se por guerras internas, desastres naturais ou pela arrogância de seus líderes. O que restou foram ruínas sagradas, lendas e fragmentos de conhecimento. No vazio deixado por essa queda, tribos e famílias começaram a se reorganizar, originando os primeiros clãs shinobi.
 
-&#x20;Foi nesse tempo de confusão que surgiu Masaki, um andarilho envolto em mistério. Nem rei, nem guerreiro – mas mestre de uma nova filosofia. Seus ensinamentos, conhecidos como Ninshuu, não eram feitos para combate, mas para conexão. Ele ensinava que o chakra era a energia da vida e deveria servir à cura, à meditação e à união entre as pessoas. Os poucos registros que restaram falam de suas curas milagrosas, seus discípulos pacifistas e seus encontros com líderes que ficaram mudados para sempre.
+&#x20;Foi nesse tempo de confusão que surgiu Masaki, um andarilho envolto em mistério. Nem rei, nem guerreiro, mas mestre de uma nova filosofia. Seus ensinamentos, conhecidos como Ninshuu, não eram feitos para combate, mas para conexão. Ele ensinava que o chakra era a energia da vida e deveria servir à cura, à meditação e à união entre as pessoas. Os poucos registros que restaram falam de suas curas milagrosas, seus discípulos pacifistas e seus encontros com líderes que ficaram mudados para sempre.
 
 &#x20;Com o tempo, porém, o mundo tornou-se mais cruel. As necessidades da sobrevivência, da proteção e da guerra fizeram com que o Ninshuu fosse reinterpretado. Assim, sua essência espiritual foi convertida em técnica militar. Nascia o ninjutsu: prático, poderoso e voltado à batalha.
 
-&#x20;Ainda assim, mesmo nos dias atuais, os verdadeiros seguidores de Masaki mantêm vivos seus princípios originais. Escondidos em montanhas ou dispersos em vilarejos, eles preservam a centelha de um tempo em que o chakra era ponte – e não espada.
+&#x20;Ainda assim, mesmo nos dias atuais, os verdadeiros seguidores de Masaki mantêm vivos seus princípios originais. Escondidos em montanhas ou dispersos em vilarejos, eles preservam a centelha de um tempo em que o chakra era ponte, e não espada.
 
 ***
 
@@ -37,7 +37,7 @@ A paz era uma ideia distante, um sussurro frágil abafado pelo som do aço e do 
 
 
 
-&#x20;Em meio a esse cenário de caos, ergueu-se uma figura incomum: Hashirama Senju, filho de um dos clãs mais poderosos, mas também um homem guiado por um sonho ousado – um mundo onde as crianças não precisassem mais morrer por guerras que não compreendiam.
+&#x20;Em meio a esse cenário de caos, ergueu-se uma figura incomum: Hashirama Senju, filho de um dos clãs mais poderosos, mas também um homem guiado por um sonho ousado, um mundo onde as crianças não precisassem mais morrer por guerras que não compreendiam.
 
 &#x20;Desde jovem, Hashirama questionava o ciclo de ódio entre os clãs. Inspirado pelos relatos antigos sobre Masaki e os fragmentos sobreviventes do Ninshuu, ele acreditava que o chakra poderia novamente ser uma força de união. Junto de seu irmão Tobirama e de aliados confiáveis, Hashirama iniciou uma jornada não apenas militar, mas ideológica: unificar os clãs sob um novo sistema de coexistência.
 
@@ -47,7 +47,7 @@ A paz era uma ideia distante, um sussurro frágil abafado pelo som do aço e do 
 
 &#x20;As árvores ao redor da vila tornaram-se guardiãs silenciosas de um novo tempo. As crianças riam, os jutsus eram treinados para proteger, e as sementes da paz finalmente tocavam o solo.
 
-&#x20;A fundação de Konoha não foi o fim da violência, mas foi o início de uma nova possibilidade. O sonho de Hashirama – ainda que frágil diante das feridas do passado – havia se tornado realidade.
+&#x20;A fundação de Konoha não foi o fim da violência, mas foi o início de uma nova possibilidade. O sonho de Hashirama, ainda que frágil diante das feridas do passado, havia se tornado realidade.
 
 ***
 
@@ -57,7 +57,7 @@ Com a fundação de Konohagakure selada pela união dos clãs Senju e Uchiha, su
 
 &#x20;A partir desse momento, Konoha começou a se transformar em algo muito maior do que uma simples aliança militar: tornava-se um modelo de nação shinobi, um protótipo de sociedade em que o poder dos ninjas era guiado por princípios, hierarquia e propósito coletivo.
 
-&#x20;Para sustentar esse novo ideal, foram fundadas as primeiras academias ninja, instituições onde crianças de diferentes clãs — e até mesmo filhos de civis — podiam aprender os fundamentos do chakra, do combate e da convivência. Nessas escolas, além de ninjutsu e taijutsu, ensinavam-se valores como lealdade, coragem, autodisciplina e a importância de proteger os mais fracos. Pela primeira vez em séculos, uma geração crescia sem precisar se lançar imediatamente à guerra.
+&#x20;Para sustentar esse novo ideal, foram fundadas as primeiras academias ninja, instituições onde crianças de diferentes clãs, e até mesmo filhos de civis, podiam aprender os fundamentos do chakra, do combate e da convivência. Nessas escolas, além de ninjutsu e taijutsu, ensinavam-se valores como lealdade, coragem, autodisciplina e a importância de proteger os mais fracos. Pela primeira vez em séculos, uma geração crescia sem precisar se lançar imediatamente à guerra.
 
 &#x20;A política entre clãs também foi reformulada. O sistema feudal ancestral foi aos poucos substituído por um conselho central, onde representantes dos clãs mais influentes participavam das decisões administrativas. Embora ainda existissem rivalidades silenciosas, o foco da nova era era a cooperação, e não mais o domínio. Os clãs preservavam suas técnicas, histórias e tradições, mas agora sob a bandeira comum da Folha.
 
@@ -77,11 +77,11 @@ Com a fundação de Konohagakure selada pela união dos clãs Senju e Uchiha, su
 
 &#x20;Com o passar dos anos, Konohagakure deixou de ser apenas um símbolo de esperança e tornou-se o coração pulsante do novo mundo ninja. A vila crescia não apenas em território e poder, mas também em valores, estruturas sociais e força espiritual. O modelo de aliança entre clãs, proposto por Hashirama, começou a influenciar outras regiões, dando origem a outras vilas ocultas, como Kirigakure e Kumogakure
 
-&#x20;Essa nova ordem gerou um delicado equilíbrio entre as vilas, sustentado por tratados, diplomacia e exibições de força — como os Exames Chūnin, que deixaram de ser apenas um teste de ascensão ninja para se tornarem um palco político e cultural entre as nações.
+&#x20;Essa nova ordem gerou um delicado equilíbrio entre as vilas, sustentado por tratados, diplomacia e exibições de força, como os Exames Chūnin, que deixaram de ser apenas um teste de ascensão ninja para se tornarem um palco político e cultural entre as nações.
 
 &#x20;Durante esse período, Konoha também floresceu no domínio de jutsus elementares, na criação de técnicas de selamento avançadas e na fundação de novas academias ninja. O clã Nara revolucionou os métodos de estratégia e análise; os Yamanaka criaram redes de comunicação mental que permitiram uma nova forma de espionagem e coordenação; os Hyuuga expandiram os usos do Byakugan para fins médicos e defensivos.
 
-&#x20;O conhecimento ancestral deixado por Masaki ainda ecoava em grupos pequenos e discretos — sábios, curandeiros e monges que mantinham viva a chama original do Ninshuu, frequentemente em silêncio, mas sempre prontos a orientar aqueles que buscavam algo além do combate.
+&#x20;O conhecimento ancestral deixado por Masaki ainda ecoava em grupos pequenos e discretos, sábios, curandeiros e monges que mantinham viva a chama original do Ninshuu, frequentemente em silêncio, mas sempre prontos a orientar aqueles que buscavam algo além do combate.
 
 &#x20;Konoha tornou-se não só uma força militar, mas uma civilização centrada em sabedoria, equilíbrio e visão de futuro. As crianças passaram a crescer em um ambiente mais estável, onde a academia ninja ensinava mais do que jutsus: ensinava valores, deveres e o verdadeiro propósito de proteger.
 

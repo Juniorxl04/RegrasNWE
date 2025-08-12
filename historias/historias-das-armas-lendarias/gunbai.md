@@ -2,7 +2,7 @@
 
 ## &#x20;Gunbai – _O Leque da Guerra_
 
-&#x20;Entre as armas mais antigas e enigmáticas ligadas ao clã Uchiha, nenhuma carrega um simbolismo tão poderoso quanto a Gunbai, conhecida como o Leque da Guerra. Apesar de sua aparência não convencional, ela é muito mais do que uma simples arma — é um símbolo de comando, poder espiritual e supremacia em batalha.
+&#x20;Entre as armas mais antigas e enigmáticas ligadas ao clã Uchiha, nenhuma carrega um simbolismo tão poderoso quanto a Gunbai, conhecida como o Leque da Guerra. Apesar de sua aparência não convencional, ela é muito mais do que uma simples arma, é um símbolo de comando, poder espiritual e supremacia em batalha.
 
 &#x20;A Gunbai não corta como uma espada comum. Seu poder está na manipulação do chakra, na capacidade de refletir ataques e amplificar a energia do portador. E, acima de tudo, está ligada à linhagem e à vontade dos Uchiha, escolhendo apenas aqueles cujo fogo interior queima com intensidade suficiente para suportar o peso de seu passado.
 
