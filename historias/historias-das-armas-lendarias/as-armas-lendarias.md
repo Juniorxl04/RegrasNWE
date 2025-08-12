@@ -2,7 +2,7 @@
 
 ## As Armas Lendárias do Alto Império
 
-&#x20;Desde os tempos remotos do Alto Império, remontam-se histórias envoltas em mistério sobre armas extraordinárias: forjadas em eras há muito perdidas e desaparecidas em meio ao caos dilacerante das guerras civis. Dentre essas relíquias lendárias, apenas algumas ressurgiram nos dias modernos entre elas, as espadas lendarias Kubikiribōchō, Gunbai, Samehada, Kusanagi e Kurosawa, cada uma carregada de poder.
+&#x20;Desde os tempos remotos do Alto Império, remontam-se histórias envoltas em mistério sobre armas extraordinárias: forjadas em eras há muito perdidas e desaparecidas em meio ao caos dilacerante das guerras civis. Dentre essas relíquias lendárias, apenas algumas ressurgiram nos dias modernos entre elas, as espadas lendárias Gunbai, Kubikiribōchō, Samehada, Kurosawa e Kusanagi cada uma carregada de poder.
 
 &#x20;Embora sua origem permaneça envolta em especulação, acredita-se que essas armas nasceram após o lendário viajante Masaki compartilhar com seu povo os fundamentos do ninshuu, uma filosofia ancestral que ensina a canalizar e compartilhar chakra. Tangidos por essa energia primordial, os mestres ferreiros do Alto Império foram inspirados a transcender os métodos comuns da forja: aprenderam a infundir chakra e os elementos da natureza diretamente no metal, moldando lâminas que transcenderiam os limites do mundo físico.
 
