@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # DARK RP
 
 **Praticar um roleplay com um contexto de abuso grave como: Estupro, incestos, racismo, xenofobia, capacitismo, homofobia e tortura.**
@@ -28,7 +14,7 @@ Nós da equipe responsáveis pela a administração do projeto NWE repudiamos e 
 
 {% tabs %}
 {% tab title="TIPOS DARK-RP QUE SÃO PROIBIDOS" %}
-- <mark style="color:red;">Situações de cunho sexual em ambiente público ou privado (dentro de</mark>&#x20;
+- <mark style="color:red;">Situações de cunho sexual em ambiente público ou privado (dentro de</mark>
 - <mark style="color:red;">Racismo.</mark>
 - <mark style="color:red;">Xenofobia(Envolvendo OFF-RP).</mark>
 - <mark style="color:red;">Pedofilia.</mark>

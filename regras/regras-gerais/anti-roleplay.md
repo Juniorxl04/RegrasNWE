@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # ANTI-ROLEPLAY
 
 * **01. É proibido qualquer tipo de RP envolvendo ou assimilando assédio, importunação sexual, racismo, preconceito, homofobia, xenofobia, suicídio, machismo.**

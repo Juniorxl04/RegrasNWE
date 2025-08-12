@@ -1,20 +1,6 @@
 ---
 cover: .gitbook/assets/Fundo, Sobre o Projeto.gif
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🛑 SOBRE O PROJETO - \[NWE]
@@ -30,7 +16,7 @@ A Naruto World Evolution (NWE) é um servidor SA-MP que combina elementos de RPG
 Nosso objetivo é unir esses dois estilos para proporcionar um ambiente onde você possa desenvolver seu personagem da maneira que quiser, sempre respeitando as regras estabelecidas neste documento.
 
 {% hint style="warning" %}
-O **NWE** não tolera nenhum tipo de **assédio, preconceito, abuso, racismo, flaming ou discurso de ódio, dentro ou fora do servidor**.&#x20;
+O **NWE** não tolera nenhum tipo de **assédio, preconceito, abuso, racismo, flaming ou discurso de ódio, dentro ou fora do servidor**.
 {% endhint %}
 
 > A administração pode intervir sempre que necessário para garantir um ambiente saudável para todos.

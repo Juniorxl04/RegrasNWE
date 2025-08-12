@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # EXAME CHUNIN E JOUNIN
 
 * **01.** É **proibido** qualquer tipo de conflito/entrega de pacote e/ou roubo de caixa **02 (duas) horas** antes e **30(trinta) minutos** após a finalização do Exame Chunin/Jounin.

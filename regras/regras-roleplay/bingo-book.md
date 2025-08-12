@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # BINGO-BOOK
 
 * **01.** É proibido RP's combinados de resgate de recompensa na Bounty House.

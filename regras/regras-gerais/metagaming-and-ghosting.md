@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # METAGAMING & GHOSTING
 
 Utilizar informações descobertas por meios externos e fora do roleplay para usar dentro do jogo para dar vantagem/benefício ao seu personagem é proibido, **passar ou receber informações em chats de transmissões ao vivo ou não**, ficar perseguindo e/ou forçando roleplay com um criador de conteúdo ou comentar sobre ações que personagem ''X'' fez sem ter o conhecimento do mesmo.Toda e qualquer denúncia deve ter prova de ambos os lados com o **áudio original.**

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # KAGES/ASSISTENTES
 
 > Atenção para os Kages, na página inicial de "REGRAS PROFISSÕES" há uma regra que diz sobre saída do cargo antes do previsto.

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # FLAMING
 
 **Flaming** é o ato de inflamar alguma situação ou pessoa de forma negativa, incitando o ódio, acusações, ofensas, ameaças, flood, repetição de insultos ou palavras relacionadas ao ódio, etc. Contra algo ou alguém dentro do jogo e do roleplay.

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # NUKENINS E MASCARADOS
 
 * **01. Sempre** que o jogador **estiver** com **status mascarado** deverá ter algo **sobrepondo o rosto.**

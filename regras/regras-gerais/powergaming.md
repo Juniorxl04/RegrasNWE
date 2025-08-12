@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # POWERGAMING
 
 É a prática de abusar das mecânicas e bugs do jogo para se beneficiar ou adquirir vantagem sobre o adversário e fazer manobras ou atos impossíveis de serem feitos na vida real.
@@ -28,7 +14,7 @@ layout:
 * É **proibido** utilizar kit médico/bandagem bugado no mapa (dentro de paredes, chão, árvore) durante a ação.
 * É proibido teleportar um ninja utilizando o jutsu Amenotejikara(Jutsu Level 1 do mentor Sasuke Shippuden Variação 2) sem que o mesmo esteja no seu campo de visão.
 
-> _**Obs:** Acertar alguém que está fora do seu campo de visão, jogando um jutsu através de uma parede/casa/montanhas etc, etc._&#x20;
+> _**Obs:** Acertar alguém que está fora do seu campo de visão, jogando um jutsu através de uma parede/casa/montanhas etc, etc._
 >
 > _**Obs²:** Através das grades da cela é válido_
 >

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # PERSONAGEM
 
 * **01.** É proibido qualquer nome ou sobrenome que envolva marcas, duplo sentido, que tenham conotação sexual, preconceito ou que fogem da realidade

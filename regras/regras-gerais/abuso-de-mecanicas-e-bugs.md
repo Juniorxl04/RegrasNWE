@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # ABUSO DE MECÂNICAS E BUGS
 
 **Mecânicas** são todos os sistemas que existem dentro do jogo que envolve diversas ações como: Combate, dançar, comer, correr…
@@ -24,7 +10,7 @@ O **abuso de mecânicas** é quando o jogador através de alguma mecânica do jo
 
 ## _Abusos de mecânicas conhecidos:_
 
-* Selar um corpo atrás de uma porta e/ou parede.(Salve os casos onde o corpo esteja bugado e haja a necessidade de retirar o corpo com o consentimento&#x20;
+* Selar um corpo atrás de uma porta e/ou parede.(Salve os casos onde o corpo esteja bugado e haja a necessidade de retirar o corpo com o consentimento
 * Usar da mecânica de esquivas/investidas (dash) para acessar áreas trancadas ou paredes/casas (Como bases, salas de Kages, Hospitais e Delegacias)
 * Usar animação de encostar na parede para ver através dela.
 * Colocar um colchonete, barraca e/ou fogueira flutuando no ar.
@@ -41,13 +27,13 @@ _**Exemplo:**_ _<mark style="background-color:yellow;">Usar algum buraco no mapa
 
 * **Não use** qualquer tipo de **software externo** ou **mecânica** do GTA e/ou SAMP que não são permitidas ou que possa te dar alguma vantagem.
 
-_**Exemplo:**_ _<mark style="background-color:yellow;">Abuso da tecla</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**F8/ESC**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">para forçar congelamentos, abuso na utilização da tecla</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**F5**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">para benefício próprio, usar</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**animações**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">como as originais de lutas do GTA.</mark>_
+_**Exemplo:**_ _<mark style="background-color:yellow;">Abuso da tecla</mark>_ _<mark style="background-color:yellow;">**F8/ESC**</mark>_ _<mark style="background-color:yellow;">para forçar congelamentos, abuso na utilização da tecla</mark>_ _<mark style="background-color:yellow;">**F5**</mark>_ _<mark style="background-color:yellow;">para benefício próprio, usar</mark>_ _<mark style="background-color:yellow;">**animações**</mark>_ _<mark style="background-color:yellow;">como as originais de lutas do GTA.</mark>_
 
 ***
 
 * **Não abuse de bugs.** **Evite** divulgar isso a outros jogadores, caso aconteça, poderá ser alvo de **punição e até BANIMENTO PERMANENTE do projeto**.
 
-_**Exemplo:** <mark style="background-color:yellow;">Bugs encontrados pelo mapa, bugs em comandos.</mark>_
+_**Exemplo:**_ _<mark style="background-color:yellow;">Bugs encontrados pelo mapa, bugs em comandos.</mark>_
 
 ***
 

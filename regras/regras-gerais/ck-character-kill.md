@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # CK (CHARACTER KILL)
 
 {% hint style="info" %}
@@ -78,7 +64,7 @@ Vale a pena ressaltar que não há isenção dessa regra em tempos de guerra ent
 
 ***
 
-* **09.** É <mark style="color:red;">**totalmente proibido**</mark> <mark style="color:red;"></mark><mark style="color:red;">o Revenge Kill</mark> (RK, ato de matar a pessoa que te matou no RP passado como forma de vingança).
+* **09.** É <mark style="color:red;">**totalmente proibido**</mark> <mark style="color:red;">o Revenge Kill</mark> (RK, ato de matar a pessoa que te matou no RP passado como forma de vingança).
 
 {% hint style="danger" %}
 Caso cometa RK, estará sujeito a punição administrativa, podendo receber advertências fixas e banimento, permanente ou não.
