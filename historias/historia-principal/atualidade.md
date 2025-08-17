@@ -11,8 +11,8 @@
 &#x20;Com o mundo buscando estabilidade e organização, as vilas realizaram seus primeiros processos formais de escolha de Kages:
 
 * **Sunagakure** elegeu **Hiwari Sora**, figura controversa, mas carismática, que promete “Grande prosperação da vila” como símbolo de lealdade e entrega total ao povo.
-* **Konohagakure** confirmou Izuna como seu líder, prometendo diplomacia, neutralidade estratégica e avanço educacional.
-* **Kumogakure** surpreendeu ao eleger **Yuta**, com um discurso agressivo de retomada territorial e reconstrução de sua influência militar.
+* **Konohagakure** confirmou **Uchiha Kokushibo** como seu líder, prometendo diplomacia, neutralidade estratégica e avanço educacional.
+* **Kumogakure** surpreendeu ao eleger **Zenin Yuta**, com um discurso agressivo de retomada territorial e reconstrução de sua influência militar.
 * **Kirigakure**, por outro lado, ainda permanece **sem liderança formal**, mergulhada numa crise de sucessão, falta de ninjas e instabilidade econômica.
 
 ***
