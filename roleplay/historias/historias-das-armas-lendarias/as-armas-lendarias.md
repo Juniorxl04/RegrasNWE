@@ -18,6 +18,6 @@
 
 &#x20;Dizem que, numa era em que a energia vital (chakra) era ainda mais abundante e conectada à essência da natureza, os ferreiros se tornavam artesãos do sobrenatural. A fusão do metal com os elementos de terra, fogo, vento, água e o chakra resultava em armas vivas, capazes de transcender seu estado material. Essas lâminas não eram meros instrumentos de destruição, mas extensões da força espiritual de seu portador, ressoando com intenções e canalizando poder.
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 ***

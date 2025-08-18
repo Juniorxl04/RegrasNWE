@@ -114,6 +114,6 @@ Após boatos vazarem, sobre a cachoeira do Vilarejo Fuji, e sua agua que "curava
 
 &#x20;Hoje, Takigakure é conhecido não apenas como o Berço da Vida, mas também como o Berço do Ninshuu. Lá, nasceu o primeiro Iryou Ninjutsu, a invocação de Katsuyu e o Selo Byakugou. Lá, Masaki plantou sua esperança, e mesmo que tenha seguido viagem entre os mundos, muitos acreditam que parte de sua essência ainda repousa sob a Árvore Divina. Se o chakra é a ponte entre corpo e alma, Takigakure é o alicerce dessa ponte. E mesmo nas cinzas de batalhas passadas, as flores da cura continuam a desabrochar.
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 ***

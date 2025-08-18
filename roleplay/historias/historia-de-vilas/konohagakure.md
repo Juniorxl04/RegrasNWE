@@ -88,6 +88,6 @@ Com a fundação de Konohagakure selada pela união dos clãs Senju e Uchiha, su
 &#x20;Por fim, a Vila Oculta da Folha consolidou-se como um farol em meio às incertezas do mundo shinobi. Cada nova geração de ninjas levava consigo não apenas o símbolo da folha gravado em suas testas, mas a convicção de que o verdadeiro poder não está em destruir, mas em preservar.\
 
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 ***

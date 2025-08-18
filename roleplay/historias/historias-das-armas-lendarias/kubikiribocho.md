@@ -12,6 +12,6 @@
 
 &#x20;Por décadas, seu paradeiro permaneceu um enigma, até que acabou sendo reencontrada por uma kunoichi de Sunagakure, que devolveu ao mundo ninja o terror e o fascínio de uma das armas mais sombrias do passado.
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 ***

@@ -18,6 +18,6 @@
 
 &#x20;Assim nasceu a nova era: fragmentada, repleta de rivalidades, mas também marcada pelo surgimento de uma força inédita, os ninjas, que moldariam o futuro político, cultural e militar do mundo.
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 ***

@@ -60,6 +60,6 @@ Ele escolhe apenas invocadores que entendem que o poder não deve ser gritante, 
 
 &#x20;Foi registrado nos pergaminhos do Templo de Tori que nenhum dos irmãos, sozinho, era capaz de vencer Ekibyo. Somente quando Kenzoku e Senzoku voaram em uníssono suas asas cortando o céu como um único ser a cópia foi forçada a recuar. Essa união, porém, é rara: exige mais do que chakra. Exige confiança entre opostos.
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 ***

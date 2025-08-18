@@ -42,6 +42,6 @@
 
 &#x20;A grande **Vontade do Fogo** também é vista como uma memória coletiva, um legado que é transmitido de geração em geração. Quando um shinobi morre, suas esperanças e sonhos são passados para aqueles que continuam a luta a diante.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 ***

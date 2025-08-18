@@ -57,6 +57,6 @@
 &#x20;Kirigakure, até hoje, é uma vila de paradoxos: cercada por água, mas sedenta por estabilidade; envolta em névoa, mas com intenções afiadas como lâminas. É um lugar onde a confiança é medida em silêncio, e onde cada passo ecoa entre as brumas como um aviso aos que ousam entrar.\
 
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 ***

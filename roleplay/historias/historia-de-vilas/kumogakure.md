@@ -121,6 +121,6 @@ Oque fizera com que Daimyo entrasse em puro extase diante daquilo que construiu.
 &#x20;Ao decorrer do tempo, esse gesto de humildade se tornou em disconfiança, e novamente as tensões políticas começaram a se agravar diante das rotas de comércios entre Kumogakure e Konohagakure, se estendendo até os dias de hoje.\
 
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 ***

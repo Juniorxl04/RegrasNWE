@@ -55,6 +55,6 @@ O novo sistema é composto por:
 
 &#x20;_Mas que ninguém se engane: embora a paz reine oficialmente, as lâminas ainda brilham nas sombras. A verdadeira estabilidade será testada não pelas palavras dos Kages, mas pelas decisões que cada vila tomará nos dias que virão._
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 ***

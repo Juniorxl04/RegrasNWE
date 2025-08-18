@@ -12,6 +12,6 @@
 
 &#x20;Ainda assim, os ecos do legado de Masaki permanecem, lembrando que, mesmo em tempos sombrios, há sempre um caminho de sabedoria, união e esperança.
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 ***

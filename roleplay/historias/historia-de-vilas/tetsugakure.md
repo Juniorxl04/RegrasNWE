@@ -95,6 +95,6 @@
 
 &#x20;Mifune ainda governa o país do ferro, mas sua presença é invocada somente em tempos de crise, já que o governo se estabeleceu em bases de acordos de diplomacia, ao invés de guerras impietosas como no passado.
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 ***

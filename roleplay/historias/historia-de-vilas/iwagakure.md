@@ -25,6 +25,6 @@
 &#x20;Hoje, a Nação da Terra permanece conhecida por suas muralhas de pedra e por caravanas que cruzam gargantas profundas, mas continua sem uma vila ninja unificada. É um país forte na essência, mas quebrado pela desconfiança: uma nação que carrega o peso das rochas… e o peso dos erros do passado.\
 
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 ***

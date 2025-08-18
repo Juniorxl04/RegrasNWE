@@ -21,6 +21,6 @@
 
 &#x20;Séculos depois, ressurgiu misteriosamente nas mãos de um novo portador, que conseguiu domá-la e revelar novamente ao mundo ninja o poder de uma espada que é tão perigosa quanto imprevisível uma arma viva, forjada na fronteira entre a alquimia e a fúria da natureza.
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 ***

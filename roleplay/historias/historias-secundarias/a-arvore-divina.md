@@ -46,6 +46,6 @@ Essas oferendas foram conhecidas como os **Cinco Frutos do Pacto.**
 
 &#x20;O Ninshuu vive nela. E nela repousa a esperança de que, mesmo em um mundo corrompido pelo Ninjutsu, ainda haja espaço para o reencontro com a essência verdadeira do Chakra.
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 ***

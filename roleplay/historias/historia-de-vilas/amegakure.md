@@ -100,6 +100,6 @@ Konohagakure via eles como renegados, por conta de sua deserção de campo, mas 
 &#x20;Após essa dívida de favores, Amegakure se manteve na espreita, sem chamar muito á atenção, e consequentemente, teve seu devido reconhecimento, mas limitado á fronteiras. E enquanto hanzo, sua liderança continuou perdurando por anos, trazendo frutos a Amegakure, como mais renegados em sua população e uma política descentralizada, com uma imensa variedade de artigos ilegais disponíveis para quem quisesse.\
 
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 ***

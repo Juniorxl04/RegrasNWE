@@ -46,6 +46,6 @@
 
 A Kurosawa foi posta em ilustração no Museu, assim como a Shinda e a Ken, ambas em posse do país do ferro, no local mais resguardado da região, o Arsenal, uma ala da Fortaleza Samurai que somente ninjas de alto escalão tinham acesso.
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 ***

@@ -44,6 +44,6 @@ Durante o período de guerras, os Uchihas se destacaram como os mais temidos, se
 
 &#x20;Historicamente, **Madara Uchiha foi a primeira pessoa a despertar o poder do sharingan**, após um grande ocorrido na vida na vida dele e também foi o **melhor usuário já registrado nos livros de história da academia ninja.** Sua maestria com o Doujutsu ultrapassava qualquer outro Uchiha em termos de habilidade, controle, versatilidade e poder bruto.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 ***

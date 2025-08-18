@@ -12,6 +12,6 @@
 
 &#x20;A Grande Guerra Vermelha marca, portanto, uma fronteira histórica: próxima o bastante do auge do Alto Império para ser lembrada como o fim de uma era dourada, mas já distante o suficiente da atualidade para ter se tornado quase uma lenda. Seu legado, contudo, persiste nas ruínas que contam histórias silenciosas de destruição, ambição e queda.
 
-<figure><img src="../../.gitbook/assets/14483075050_20a1d05820_o1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/14483075050_20a1d05820_o1.png" alt=""><figcaption></figcaption></figure>
 
 ***

@@ -22,6 +22,6 @@
 
 &#x20;O **Vale do Fim** se tornou um lembrete. Não apenas de uma batalha, mas da tragédia que pode nascer dos sonhos quebrados, da amizade perdida, e do peso de se buscar a paz em um mundo forjado pela guerra.
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 ***

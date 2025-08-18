@@ -22,6 +22,6 @@
 
 &#x20;Por muito tempo, seu paradeiro permaneceu um mistério até ressurgir nos dias atuais, carregando consigo não apenas a história de uma era esquecida, mas também a reputação de ser a espada mais rápida já forjada.
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 ***

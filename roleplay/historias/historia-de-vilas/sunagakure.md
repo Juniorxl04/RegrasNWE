@@ -64,6 +64,6 @@ A economia de Sunagakure, desde o princípio, foi uma luta diária. A terra ári
 &#x20;O povo de Suna mantém vivas as tradições antigas: celebrações à lua cheia, festivais de vento, danças entre as dunas e cânticos que louvam os espíritos do deserto. Suas roupas ainda são feitas de algodão local, com estampas inspiradas nos padrões do vento e da areia. Sua cultura permanece distinta, silenciosa, observadora. Pois em Sunagakure, o que importa não é o que se mostra... Mas o que se resiste.\
 
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 ***

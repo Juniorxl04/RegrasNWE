@@ -18,6 +18,6 @@
 
 &#x20;A partir desse momento, a Gunbai se tornaria um símbolo absoluto da linhagem Uchiha, não apenas uma arma, mas uma extensão da vontade do fogo, do orgulho e da força do clã.
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 ***
