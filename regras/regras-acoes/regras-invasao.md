@@ -2,7 +2,7 @@
 
 * Dentro do nosso servidor existe o ponto central das ações, que são as invasões. Existem três tipos de invasões e que são:
 
-<table><thead><tr><th width="236">Tipo de invasão</th><th>Motivos de invasão</th><th width="288">Tempo</th></tr></thead><tbody><tr><td>Invasão tipo 1 (1 - 4 Ninjas)</td><td><ul><li>Pacote Ilegal.</li><li>Estourar Banco.</li><li>Sequestro.</li><li>Resgate.</li></ul></td><td><strong>Tempo de Intervalo:</strong> 20 min. <strong>Tempo de Duração:</strong> 35 min.</td></tr><tr><td>Invasão tipo 2 (5 ou + ninjas) (Ordem do Kage)</td><td><ul><li>Sequestro.</li><li>Resgate</li></ul></td><td><strong>Tempo de Intervalo:</strong> 2 horas. <strong>Tempo de duração:</strong> 1 hora e 30 min.</td></tr><tr><td>Invasão tipo 3 (6 + Ninjas) (Captura de uma figura importante.)</td><td><ul><li>Resgate</li></ul></td><td><strong>Tempo de Intervalo:</strong> 2 horas. <strong>Tempo de duração:</strong> 1 hora e 30 min.</td></tr></tbody></table>
+<table><thead><tr><th width="236">Tipo de invasão</th><th>Motivos de invasão</th><th width="288">Tempo</th></tr></thead><tbody><tr><td>Invasão tipo 1 (1 - 4 Ninjas)</td><td><ul><li>Pacote Ilegal.</li><li>Estourar Banco.</li><li>Sequestro.</li><li>Resgate.</li></ul></td><td><p><strong>Tempo de Intervalo:</strong> 25 min.</p><p><strong>Tempo de Duração:</strong> 35 min.</p></td></tr><tr><td>Invasão tipo 2 (5 ou + ninjas) (Ordem do Kage)</td><td><ul><li>Sequestro.</li><li>Resgate</li></ul></td><td><p><strong>Tempo de Intervalo:</strong> 2 horas. </p><p><strong>Tempo de duração:</strong> 1 hora e 30 min.</p></td></tr><tr><td>Invasão tipo 3 (6 + Ninjas) (Captura de uma figura importante.)</td><td><ul><li>Resgate</li></ul></td><td><p><strong>Tempo de Intervalo:</strong> 2 horas.</p><p><strong>Tempo de duração:</strong> 1 hora e 30 min.</p></td></tr></tbody></table>
 
 {% hint style="danger" %}
 A quebra de qualquer regra de ação será caracterizada como Anti-RP, podendo a pena ser aumentada dependendo do caso.
@@ -17,7 +17,6 @@ A quebra de qualquer regra de ação será caracterizada como Anti-RP, podendo a
 
 > <mark style="color:blue;">**Podemos citar algumas diferenças dentre os dois tipos de invasões:**</mark>
 
-* A invasão tipo 1 possui o tempo de 20 minutos e a Invasão tipo 2 possui 2 horas de intervalo.
 * A quantidade de ninjas para se considerar uma invasão tipo 1 é de 1 a 4 ninjas, a partir de 5 já deverá ser considerado uma invasão tipo 2.
 * Para a Invasão tipo 1 qualquer ninja pode realizar ela, porém a invasão tipo 2 somente com a autorização do kage  (General ou Lider ANBU), salvo os casos de ninjas renegados, que devem formar uma organização para contemplar a invasão tipo 2.
 * Na invasão 2 não é permitido que seja feito entrega de pacotes ou roubo de caixas.
@@ -114,7 +113,7 @@ Em casos onde o ninja foi contratado, é obrigatório que o Kage puna ninjas que
 
 * **04.** Kirigakure terá isenções nas regras de invasões, nas seguintes situações:
 
-1. Kirigakure não terá tempos de intervalos e tempos de duração em **todos os tipos de ações.**
+1. Kirigakure terá seu tempo de **intervalo de todos os tipos de ações reduzido pela metade**.
 2. Kirigakure poderá realizar mais de um objetivo em uma ação de invasão.
 
 {% hint style="warning" %}
