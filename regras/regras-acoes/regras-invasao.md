@@ -19,7 +19,7 @@ layout:
 
 * Dentro do nosso servidor existe o ponto central das ações, que são as invasões. Existem três tipos de invasões e que são:
 
-<table><thead><tr><th width="236">Tipo de invasão</th><th>Motivos de invasão</th><th width="288">Tempo</th></tr></thead><tbody><tr><td>Invasão tipo 1 (1 - 4 Ninjas)</td><td><ul><li>Pacote Ilegal.</li><li>Estourar Banco.</li><li>Sequestro.</li><li>Resgate.</li></ul></td><td><p><strong>Tempo de Intervalo:</strong> 25 min.</p><p><strong>Tempo de Duração:</strong> 35 min.</p></td></tr><tr><td>Invasão tipo 2 (5 ou + ninjas) (Ordem do Kage)</td><td><ul><li>Sequestro.</li><li>Resgate</li></ul></td><td><p><strong>Tempo de Intervalo:</strong> 2 horas. </p><p><strong>Tempo de duração:</strong> 1 hora e 30 min.</p></td></tr><tr><td>Invasão tipo 3 (6 + Ninjas) (Captura de uma figura importante.)</td><td><ul><li>Resgate</li></ul></td><td><p><strong>Tempo de Intervalo:</strong> 2 horas.</p><p><strong>Tempo de duração:</strong> 1 hora e 30 min.</p></td></tr></tbody></table>
+<table><thead><tr><th width="236">Tipo de invasão</th><th>Motivos de invasão</th><th width="288">Tempo</th></tr></thead><tbody><tr><td>Invasão tipo 1 (1 - 4 Ninjas)</td><td><ul><li>Pacote Ilegal.</li><li>Estourar Banco.</li><li>Sequestro.</li><li>Resgate.</li></ul></td><td><p><strong>Tempo de Intervalo:</strong> 20 min.</p><p><strong>Tempo de Duração:</strong> 35 min.</p></td></tr><tr><td>Invasão tipo 2 (5 ou + ninjas) (Ordem do Kage)</td><td><ul><li>Sequestro.</li><li>Resgate</li></ul></td><td><p><strong>Tempo de Intervalo:</strong> 2 horas. </p><p><strong>Tempo de duração:</strong> 1 hora e 30 min.</p></td></tr><tr><td>Invasão tipo 3 (6 + Ninjas) (Captura de uma figura importante.)</td><td><ul><li>Resgate</li></ul></td><td><p><strong>Tempo de Intervalo:</strong> 2 horas.</p><p><strong>Tempo de duração:</strong> 1 hora e 30 min.</p></td></tr></tbody></table>
 
 {% hint style="danger" %}
 A quebra de qualquer regra de ação será caracterizada como Anti-RP, podendo a pena ser aumentada dependendo do caso.
@@ -141,6 +141,14 @@ Para outras vilas que invadirem antes da limitação prevista, é passível de p
 
 {% hint style="info" %}
 Akatsuki também tem o tempo de invasão reduzido pela metade por se tratar de uma organização que necessita respectivamente de ações ilegais, assim como Kirigakure.
+{% endhint %}
+
+***
+
+* **05. Só são permitidas duas invasões tipo 2 por dia**. À meia-noite (00:00), o número de invasões será resetado.
+
+{% hint style="warning" %}
+Caso uma invasão esteja em andamento e seja finalizada após as 00:00, a contagem de invasões não será totalmente resetada, permanecendo como se já tivesse ocorrido uma invasão do tipo 2 naquele dia.
 {% endhint %}
 
 ***
