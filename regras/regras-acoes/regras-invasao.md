@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: false
+---
+
 # REGRAS INVASÃO
 
 * Dentro do nosso servidor existe o ponto central das ações, que são as invasões. Existem três tipos de invasões e que são:
