@@ -80,11 +80,13 @@ Além da utilização do sistema de missões do Kage, só será permitido o envi
 {% endhint %}
 
 {% hint style="danger" %}
-Também será permitido que Konoha contrate ninjas de Kumogakure e vice-versa, porém caso seja descoberto IN-RP, é obrigatório que os ninjas que foram contratados, sejam **renegados** de suas vilas. _Apesar de haver tempos de paz, as vilas devem sempre manter seus interesses próprios._
+Também será permitido que Konoha contrate ninjas de Kumogakure ou Sunagakure e vice-versa, porém caso seja descoberto IN-RP, é obrigatório que os ninjas que foram contratados, sejam **renegados** de suas vilas. _Apesar de haver tempos de paz, as vilas devem sempre manter seus interesses próprios._
+
+* **Só devem ser punidos aqueles que não tiverem a autorização do Kage para serem contratados.**
 {% endhint %}
 
 {% hint style="danger" %}
-É totalmente proibido alianças entre **Kumogakure** e **Konohagakure** contra **Kirigakure.** Exceto em casos de contratos de ninjas.
+É totalmente proibido alianças entre **Kumogakure, Konohagakure** e **Sunagakure** contra **Kirigakure.** Exceto em casos de contratos de ninjas.
 {% endhint %}
 
 {% hint style="warning" %}
