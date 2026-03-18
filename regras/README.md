@@ -2,20 +2,7 @@
 description: >-
   Abaixo estão todos os tópicos de regras do servidor. Clique no tópico desejado
   para visualizar e ler as regras.
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: false
+hidden: true
 ---
 
 # ⚠️ REGRAS

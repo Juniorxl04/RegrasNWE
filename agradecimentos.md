@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ⭐ Agradecimentos
 
 * _**Nycolas**_ (Ajuda na escrita do documento)

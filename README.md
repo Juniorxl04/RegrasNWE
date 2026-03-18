@@ -5,6 +5,10 @@ coverY: 0
 
 # 🛑 SOBRE O PROJETO - \[NWE]
 
+## VAI PLAGIAR AS REGRAS NAO MANO, FAZ AS TUAS, FRACASSADO
+
+
+
 A Naruto World Evolution (NWE) é um servidor SA-MP que combina elementos de RPG e MMORPG, proporcionando uma experiência única e imersiva. No RPG, você evolui seu personagem por meio de missões e progressão de níveis. Já no roleplay, tem a liberdade de criar sua própria história e interagir de forma dinâmica com outros jogadores.
 
 #### Através do roleplay, você pode:

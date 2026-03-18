@@ -1,12 +1,16 @@
+---
+hidden: true
+---
+
 # 📖 Orientação de Denúncias
 
 ## <mark style="color:blue;">Orientações sobre denúncias:</mark>
 
-> #### Esta aba foi criada para orientar os players à com iniciar uma denúncia, se portar mediante à um ticket e como o denunciado deve fazer para caso haja prova contra as acusações.
+> **Esta aba foi criada para orientar os players à com iniciar uma denúncia, se portar mediante à um ticket e como o denunciado deve fazer para caso haja prova contra as acusações.**
 
 ***
 
-## <mark style="color:blue;">Para denunciantes:</mark>&#x20;
+## <mark style="color:blue;">Para denunciantes:</mark>
 
 > Ao ver um player quebrando uma regra, o orientado é abrir um ticket e denuncie o mesmo. Mas, como denunciá-lo corretamente? Abaixo mostrarei o que vai precisar:
 
@@ -24,7 +28,7 @@
 
 * O denunciado é inocente até que o denunciante forneça provas suficientes para considera-lo culpado.
 * Caso não haja cooperação, o caso pode ser finalizado com punição.
-* Também, se não houver resposta no ticket após o prazo que damos (até 24 hrs), concluiremos com a punição pois houve a chance de apresentar suas contra-provas porém não foi atendida, assim, sendo levado como "Sem resposta".&#x20;
+* Também, se não houver resposta no ticket após o prazo que damos (até 24 hrs), concluiremos com a punição pois houve a chance de apresentar suas contra-provas porém não foi atendida, assim, sendo levado como "Sem resposta".
 
 **Então, para poder justificar uma denuncia contra você, terá de ter:**
 
