@@ -61,8 +61,7 @@ A economia de Sunagakure, desde o princípio, foi uma luta diária. A terra ári
 
 &#x20;Ainda hoje, o deserto continua a ser o maior aliado e inimigo de Sunagakure. Seu clima brutal, dias incandescentes e noites cortantes molda o espírito de seu povo. Os guerreiros de Suna não são apenas ninjas; são sobreviventes, filhos da areia, herdeiros de uma história esquecida pelos outros, mas gravada em cada grão de poeira que compõe as muralhas da vila.
 
-&#x20;O povo de Suna mantém vivas as tradições antigas: celebrações à lua cheia, festivais de vento, danças entre as dunas e cânticos que louvam os espíritos do deserto. Suas roupas ainda são feitas de algodão local, com estampas inspiradas nos padrões do vento e da areia. Sua cultura permanece distinta, silenciosa, observadora. Pois em Sunagakure, o que importa não é o que se mostra... Mas o que se resiste.\
-
+&#x20;O povo de Suna mantém vivas as tradições antigas: celebrações à lua cheia, festivais de vento, danças entre as dunas e cânticos que louvam os espíritos do deserto. Suas roupas ainda são feitas de algodão local, com estampas inspiradas nos padrões do vento e da areia. Sua cultura permanece distinta, silenciosa, observadora. Pois em Sunagakure, o que importa não é o que se mostra... Mas o que se resiste.<br>
 
 <figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 

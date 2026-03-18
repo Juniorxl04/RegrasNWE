@@ -28,8 +28,7 @@ Os Nara, mestres da sombra e do intelecto;
 
 &#x20;Sem um elo unificador, os clãs tornaram-se peças de um tabuleiro sangrento. Senhores feudais _os daimyōs_ contratavam seus serviços como mercenários de elite, jogando-os uns contra os outros em guerras políticas. Crianças eram treinadas desde cedo para matar. Vilarejos inteiros desapareciam em disputas territoriais. Cada geração nascia sob o peso de conflitos herdados.
 
-A paz era uma ideia distante, um sussurro frágil abafado pelo som do aço e do chakra em colisão.\
-
+A paz era uma ideia distante, um sussurro frágil abafado pelo som do aço e do chakra em colisão.<br>
 
 ***
 
@@ -85,8 +84,7 @@ Com a fundação de Konohagakure selada pela união dos clãs Senju e Uchiha, su
 
 &#x20;Konoha tornou-se não só uma força militar, mas uma civilização centrada em sabedoria, equilíbrio e visão de futuro. As crianças passaram a crescer em um ambiente mais estável, onde a academia ninja ensinava mais do que jutsus: ensinava valores, deveres e o verdadeiro propósito de proteger.
 
-&#x20;Por fim, a Vila Oculta da Folha consolidou-se como um farol em meio às incertezas do mundo shinobi. Cada nova geração de ninjas levava consigo não apenas o símbolo da folha gravado em suas testas, mas a convicção de que o verdadeiro poder não está em destruir, mas em preservar.\
-
+&#x20;Por fim, a Vila Oculta da Folha consolidou-se como um farol em meio às incertezas do mundo shinobi. Cada nova geração de ninjas levava consigo não apenas o símbolo da folha gravado em suas testas, mas a convicção de que o verdadeiro poder não está em destruir, mas em preservar.<br>
 
 <figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 

@@ -54,8 +54,7 @@
 
 &#x20;O povo é recluso, silencioso e supersticioso. Acredita-se que os espíritos dos mortos viajam com a névoa, e por isso é costume deixar oferendas à beira-mar. As vestes seguem padrões austeros, tons de cinza que se camuflem na névoa. Em festas locais, trajes com escamas de peixe e máscaras de barro são usados para afastar os “olhos invisíveis”, espíritos ou inimigos escondidos na névoa.
 
-&#x20;Kirigakure, até hoje, é uma vila de paradoxos: cercada por água, mas sedenta por estabilidade; envolta em névoa, mas com intenções afiadas como lâminas. É um lugar onde a confiança é medida em silêncio, e onde cada passo ecoa entre as brumas como um aviso aos que ousam entrar.\
-
+&#x20;Kirigakure, até hoje, é uma vila de paradoxos: cercada por água, mas sedenta por estabilidade; envolta em névoa, mas com intenções afiadas como lâminas. É um lugar onde a confiança é medida em silêncio, e onde cada passo ecoa entre as brumas como um aviso aos que ousam entrar.<br>
 
 <figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 

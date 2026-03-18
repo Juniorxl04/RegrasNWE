@@ -22,8 +22,7 @@
 
 &#x20;Tentativas de fundar uma vila ninja centralizada, como fizeram as nações do Fogo, Raio, vento e Água, fracassaram. Cada clã queria manter suas rotas de comércio, seus túneis secretos e seus poucos segredos restantes de fundição e metalurgia.
 
-&#x20;Hoje, a Nação da Terra permanece conhecida por suas muralhas de pedra e por caravanas que cruzam gargantas profundas, mas continua sem uma vila ninja unificada. É um país forte na essência, mas quebrado pela desconfiança: uma nação que carrega o peso das rochas… e o peso dos erros do passado.\
-
+&#x20;Hoje, a Nação da Terra permanece conhecida por suas muralhas de pedra e por caravanas que cruzam gargantas profundas, mas continua sem uma vila ninja unificada. É um país forte na essência, mas quebrado pela desconfiança: uma nação que carrega o peso das rochas… e o peso dos erros do passado.<br>
 
 <figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 

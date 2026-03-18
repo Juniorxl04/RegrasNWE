@@ -97,8 +97,7 @@ Konohagakure via eles como renegados, por conta de sua deserção de campo, mas 
 
 &#x20;Hanzo vê isso como um sinal de covardia, e acaba por matar os outros membros da organização alí mesmo, Amegakure e Konoha não se responsabilizam pelo massacre que cometeram alí, e por baixo dos panos, apenas seguem sua vida normalmente.\
 \
-&#x20;Após essa dívida de favores, Amegakure se manteve na espreita, sem chamar muito á atenção, e consequentemente, teve seu devido reconhecimento, mas limitado á fronteiras. E enquanto hanzo, sua liderança continuou perdurando por anos, trazendo frutos a Amegakure, como mais renegados em sua população e uma política descentralizada, com uma imensa variedade de artigos ilegais disponíveis para quem quisesse.\
-
+&#x20;Após essa dívida de favores, Amegakure se manteve na espreita, sem chamar muito á atenção, e consequentemente, teve seu devido reconhecimento, mas limitado á fronteiras. E enquanto hanzo, sua liderança continuou perdurando por anos, trazendo frutos a Amegakure, como mais renegados em sua população e uma política descentralizada, com uma imensa variedade de artigos ilegais disponíveis para quem quisesse.<br>
 
 <figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
