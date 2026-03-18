@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🛑 SOBRE O PROJETO - \[NWE\]](README.md)
-* [⚠️ REGRAS (ANTI-PLAGIONESSAPORRA)](regras/README.md)
+* [⚠️ REGRAS(ANTI-PLAGIONESSAPORRA)](regras/README.md)
   * [⚪ Regras Gerais](regras/regras-gerais/README.md)
     * [ANTI-ROLEPLAY](regras/regras-gerais/anti-roleplay.md)
     * [METAGAMING & GHOSTING](regras/regras-gerais/metagaming-and-ghosting.md)
